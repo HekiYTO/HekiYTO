@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @HekiYTO
+- 👀 I’m interested in MONEY
+- 🌱 I’m currently learning html, css, java
+- 📫 How to reach me Hekityto@gmail.com
+- 😄 Pronouns: He
