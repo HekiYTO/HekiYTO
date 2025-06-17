@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Nikita
 - 👀 I’m interested in future job
-- 🌱 I’m currently learning html, css, java
+- 🌱 I’m currently learning HTML, CSS, JavaScript
 - 📫 How to reach me Hekityto@gmail.com
